@@ -16,6 +16,7 @@
 
 ##  Overview  
 <img align="right" alt="Coding" width="300" src="https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs13311-021-01030-9/MediaObjects/13311_2021_1030_Fig1_HTML.jpg">
+
 This repository presents the **first phase** of my research project conducted at **NCAI Canada**, focusing on the intersection between **functional MRI (fMRI)** and **Amyloid PET imaging** in **Alzheimer’s Disease (AD)**.  
 It explores the **shared functional and structural biomarkers** underlying AD progression, particularly how **neural network disruptions** observed via fMRI relate to **amyloid-beta accumulation** captured by PET imaging.  
 
