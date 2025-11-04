@@ -1,0 +1,67 @@
+Sheline, Yvette I., and Marcus E. Raichle. “Resting State Functional Connectivity in Preclinical Alzheimer’s 
+Disease.” Biological Psychiatry, vol. 74, no. 5, Sept. 2013, pp. 340–347, https://doi.org/10.1016/j.
+ biopsych.2012.11.028.
+ ScienceDirect. “Functional Connectivity - an Overview | ScienceDirect Topics.” Sciencedirect.com, 2016, 
+www.sciencedirect.com/topics/medicine-and-dentistry/functional-connectivity.
+ Xiong, Jing, et al. “Altered Brain Network Centrality in Patients with Mild Cognitive Impairment: An FMRI 
+Study Using a Voxel-Wise Degree Centrality Approach.” Aging, vol. 13, no. 11, 9 June 2021, pp. 15491
+15500, https://doi.org/10.18632/aging.203105. Accessed 28 Dec. 2022.
+ Cañete-Massé, Cristina, et al. “Abnormal Degree Centrality and Functional Connectivity in down Syn
+drome: A Resting-State FMRI Study.” International Journal of Clinical and Health Psychology, vol. 23, no. 
+1, 6 Oct. 2022, pp. 100341–100341, https://doi.org/10.1016/j.ijchp.2022.100341. Accessed 4 May 2025.
+ Yu, Meichen, et al. “Selective Impairment of Hippocampus and Posterior Hub Areas in Alzheimer’s 
+Disease: An MEG-Based Multiplex Network Study.” Brain, vol. 140, no. 5, 16 Mar. 2017, pp. 1466
+1485, academic.oup.com/brain/article/140/5/1466/3072777?login=true, https://doi.org/10.1093/brain/
+ awx050.
+ Brier, Matthew R., et al. “Functional Connectivity and Graph Theory in Preclinical Alzheimer’s Disease.” 
+Neurobiology of Aging, vol. 35, no. 4, Apr. 2014, pp. 757–768, https://doi.org/10.1016/j.neurobiolaging.
+ 2013.10.081. Accessed 2 Feb. 2020.
+ Sharma, Rakhi, and Shiv Dutt Joshi. “Graph Theoretical Measures for Alzheimer’s, MCI, and Normal 
+Controls: A Comparative Study Using MRI Data.” Annals of Neurosciences, vol. 32, no. 1, 1 Sept. 2023, pp. 
+21–28, https://doi.org/10.1177/09727531231186503. Accessed 28 Mar. 2025.
+ Cordes, D., et al. “Frequencies Contributing to Functional Connectivity in the Cerebral Cortex in “Resting
+State” Data.” AJNR. American Journal of Neuroradiology, vol. 22, no. 7, 1 Aug. 2001, pp. 1326–1333, 
+pubmed.ncbi.nlm.nih.gov/11498421/.
+ Adhikari, Bhim M, et al. “Cerebral Blood Flow and Cardiovascular Risk Effects on Resting Brain Regional 
+Homogeneity.” Biological Psychiatry, vol. 91, no. 10, 15 Nov. 2022. UK Biobank (UKBB).
+ University of California. “Memory.” Memory and Aging Center, 2025, memory.ucsf.edu/brain-health/
+ memory.
+ Nejad, Ayna Baladi, et al. “Self-Referential Processing, Rumination, and Cortical Midline Structures in 
+Major Depression.” Frontiers in Human Neuroscience, vol. 7, no. 666, 2013, https://doi.org/10.3389/
+ fnhum.2013.00666.
+ Ayaz A, Nisar I, Muhammad A, Ahmed K, Chand P, Jehan F. Structural Changes in the Brain on Magnetic 
+Resonance Imaging in Malnourished Children: A Scoping Review of the Literature. Pediatr Neurol. 2023 
+Dec;149:151-158. doi: 10.1016/j.pediatrneurol.2023.08.020. Epub 2023 Aug 29. PMID: 37890309.
+ Sarver, Dustin E., et al. “Hyperactivity in Attention-Deficit/Hyperactivity Disorder (ADHD): Impairing 
+Deficit or Compensatory Behavior?” Journal of Abnormal Child Psychology, vol. 43, no. 7, 12 Apr. 2015, 
+pp. 1219–1232, link.springer.com/article/10.1007/s10802-015-0011-1, https://doi.org/10.1007/s10802
+015-0011-1.
+ Pemberton, Hugh G., et al. “Quantification of Amyloid PET for Future Clinical Use: A State-of
+The-Art Review.” European Journal of Nuclear Medicine and Molecular Imaging, vol. 49, no. 10, 7 
+Apr. 2022, pp. 3508–3528, www.ncbi.nlm.nih.gov/pmc/articles/PMC9308604/, https://doi.org/10.1007/s
+ 00259-022-05784-y.
+ Research – fMRI and Amyloid PET Common Factors
+ 9/10
+Zainab Jamil
+ Wikipedia Contributors. “Standardized Uptake Value.” Wikipedia, Wikimedia Foundation, 4 Oct. 2025, 
+en.wikipedia.org/wiki/Standardized_uptake_value.
+ Palmqvist, Sebastian, et al. “Earliest Accumulation of β-Amyloid Occurs within the Default-Mode Net
+work and Concurrently Affects Brain Connectivity.” Nature Communications, vol. 8, no. 1, 31 Oct. 2017, 
+https://doi.org/10.1038/s41467-017-01150-x.
+ Leiva-Salinas, Carlos, et al. “Early Brain Amyloid Accumulation at PET in Military Instructors Exposed 
+to Subconcussive Blast Injuries.” Radiology, vol. 307, no. 5, 1 June 2023, https://doi.org/10.1148/radiol.
+ 221608.
+ Ingala, Silvia, et al. “Amyloid-Driven Disruption of Default Mode Network Connectivity in 
+Cognitively Healthy Individuals.” Brain Communications, vol. 3, no. 4, 2021, p. fcab201, 
+pubmed.ncbi.nlm.nih.gov/34617016/, https://doi.org/10.1093/braincomms/fcab201. Accessed 11 Dec. 
+2022.
+ Kim, Do-Hoon. “Longitudinal Analysis of Amyloid PET and Brain MRI for Predicting Conversion from Mild 
+Cognitive Impairment to Alzheimer’s Disease: Findings from the ADNI Cohort.” Tomography, vol. 11, no. 
+3, 19 Mar. 2025, p. 37, https://doi.org/10.3390/tomography11030037. Accessed 28 Apr. 2025.
+ Kim, Sunghwan, et al. “A Comparative Analysis of Two Automated Quantification Methods for Regional 
+Cerebral Amyloid Retention: PET-Only and PET-And-MRI-Based Methods.” International Journal of Mol
+ecular Sciences, vol. 25, no. 14, 12 July 2024, pp. 7649–7649, www.mdpi.com/1422-0067/25/14/7649, 
+https://doi.org/10.3390/ijms25147649. Accessed 3 Nov. 2025.
+ Lew, Christopher O, et al. “MRI-Based Deep Learning Assessment of Amyloid, Tau, and Neurodegener
+ation Biomarker Status across the Alzheimer Disease Spectrum.” Radiology, vol. 309, no. 1, 1 Oct. 2023, 
+https://doi.org/10.1148/radiol.222441.
